@@ -1,0 +1,98 @@
+.vscode/
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+*Data
+
+# Raw TCGA data
+Data/RNA_seq/
+
+# Raw clinical data
+Data/clinical/
+
+# TCGA/GDC logs and temporary files
+**/logs/
+*.parcel
+
+gsea_env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ignore results from GSEA analysis
+/results/gsea_env/
+
+/results/gsea_env/
+
+# ignore large files
+# Large TCGA datasets / generated matrices
+/results/final_dataset*.csv
+/results/dataset_with_risk_*.csv
+/results/expression_matrix*.csv
+/results/gene_expression*.csv
+/results/expression_with_risk_score.csv
+/results/clinical_characteristics_dataset*.csv
+/results/clinical_dataset_with_mnt.csv
+/results/*model*.csv
+debug_gsea*.png
+# Large generated datasets
+/results/final_dataset_scaled.csv
+/results/dataset_with_risk_groups.csv
+/results/dataset_with_risk_scores.csv
+/results/expression_matrix_raw.csv
+/results/expression_matrix_cleaned.csv
+/results/final_tcga_brca_dataset.csv
+/results/final_tcga_brca_dataset_clean.csv
+/results/final_tcga_brca_dataset_QC.csv
+/results/gene_expression_matrix.csv
+/results/gene_expression_no_constant.csv
+/results/clinical_characteristics_dataset.csv
+/results/clinical_characteristics_dataset_clean.csv
+/results/clinical_dataset_with_mnt.csv
+/results/final_datasetB_model.csv
+/results/final_dataset_model02.csv
+/results/final_datasetA_model.csv
+/results/expression_with_risk_score.csv
+/results/gene_expression_variance_filtered.csv
+/results/final_dataset_for_model.csv
+/results/DEG_results_annotated.csv
+# Large datasets
+/results/final_tcga_brca_dataset*.csv
+/results/*model*.csv
+/results/expression_matrix*.csv
+/results/gene_expression*.csv
+/results/clinical_characteristics_dataset*.csv
+
+# Python environment
+/results/gsea_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# VS Code
+.vscode/
+
+
+# Ignore all PDFs
+*.pdf
+
+# But keep the final report
+!report/TCGA_BRCA_Project_Report.pdf
+
+# Windows shortcuts
+*.lnk

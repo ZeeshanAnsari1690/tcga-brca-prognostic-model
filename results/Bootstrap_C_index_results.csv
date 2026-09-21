@@ -1,0 +1,6 @@
+Metric,Value
+Apparent C-index,0.5658495553953377
+Mean optimism,0.00122627801297321
+Optimism-corrected C-index,0.5646232773823644
+Bootstrap 95% CI lower,0.5013770952995208
+Bootstrap 95% CI upper,0.6341909888229155

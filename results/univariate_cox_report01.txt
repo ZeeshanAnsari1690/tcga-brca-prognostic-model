@@ -1,0 +1,8 @@
+==================================================
+UNIVARIATE COX REGRESSION REPORT
+==================================================
+
+Patients : 1030
+Genes Analyzed : 47718
+Successful Models : 47682
+Significant Genes (FDR<0.05): 684
