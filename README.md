@@ -105,14 +105,14 @@ the median risk score as the cutoff.
 Patients were stratified into low-risk and high-risk groups based on the
 median prognostic risk score.
 
-![Risk Score Distribution](figures\Risk_Score_Distribution.png)
+![Risk Score Distribution](figures/Risk_Score_Distribution.png)
 **Figure 1.** Distribution of prognostic risk scores among the study patients.
 
 ---
 
 ### 2. Kaplan–Meier Survival Analysis
 
-![Kaplan-Meier overall survival curve comparing high-risk and low-risk groups. Two survival probability lines are shown, orange for High Risk and blue for Low Risk, with shaded confidence bands on a white chart with dashed grey grid lines. The plot title is Kaplan-Meier Overall Survival Curve, with axis labels Overall Survival Probability and Survival Time (Days). Text in the image includes High Risk, Low Risk, Log-rank p = 1.173e-03, and the at-risk table showing High Risk and Low Risk counts, censored values, and event counts. The tone is neutral and clinical.](figures\Kaplan_Meier_Publication.png)
+![Kaplan-Meier overall survival curve comparing high-risk and low-risk groups. Two survival probability lines are shown, orange for High Risk and blue for Low Risk, with shaded confidence bands on a white chart with dashed grey grid lines. The plot title is Kaplan-Meier Overall Survival Curve, with axis labels Overall Survival Probability and Survival Time (Days). Text in the image includes High Risk, Low Risk, Log-rank p = 1.173e-03, and the at-risk table showing High Risk and Low Risk counts, censored values, and event counts. The tone is neutral and clinical.](figures/Kaplan_Meier_Publication.png)
 
 **Figure 2.** Kaplan–Meier overall survival curves comparing low-risk and
 high-risk patient groups.
@@ -121,7 +121,7 @@ high-risk patient groups.
 
 ### 3. Time-Dependent ROC Analysis
 
-![Time-Dependent ROC Curve](figures\Publication_ROC.png)
+![Time-Dependent ROC Curve](figures/Publication_ROC.png)
 
 **Figure 3.** Time-dependent ROC curves evaluating the prognostic performance
 of the risk-score model.
