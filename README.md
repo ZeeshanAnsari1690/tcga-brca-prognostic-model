@@ -105,8 +105,7 @@ the median risk score as the cutoff.
 Patients were stratified into low-risk and high-risk groups based on the
 median prognostic risk score.
 
-![Risk Score Distribution](figures/risk_score.png)
-
+![Risk Score Distribution](figures\Risk_Score_Distribution.png)
 **Figure 1.** Distribution of prognostic risk scores among the study patients.
 
 ---
