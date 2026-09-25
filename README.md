@@ -127,13 +127,11 @@ high-risk patient groups.
 of the risk-score model.
 
 ---
-
 ### 4. Differential Gene Expression Analysis
 
 ![Volcano Plot](figures/volcano_plot.png)
 
-**Figure 4.** Volcano plot showing differentially expressed genes between
-the low-risk and high-risk groups.
+**Figure 4.** Volcano plot showing differentially expressed genes between the low-risk and high-risk groups.
 
 ---
 
