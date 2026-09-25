@@ -129,11 +129,9 @@ of the risk-score model.
 ---
 ### 4. Differential Gene Expression Analysis
 
-![Volcano Plot](figures/volcano_plot.png)
+![Volcano Plot](figures/Volcano_plot.png)
 
 **Figure 4.** Volcano plot showing differentially expressed genes between the low-risk and high-risk groups.
-
----
 
 ### 5. Gene Ontology (GO) Enrichment Analysis
 
